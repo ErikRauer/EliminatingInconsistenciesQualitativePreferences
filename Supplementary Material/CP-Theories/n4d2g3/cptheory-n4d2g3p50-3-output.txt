@@ -1,0 +1,38 @@
+----------- GRAPH -----------
+Number of Preferences: 43
+Number of Outcomes: 16
+Number of Edges: 90
+----------- STATS -----------
+Algorithm used: Algorithm.MFAS
+Runtime: 0.08579206466674805seconds
+Number of Iterations: 5
+Number of Rows in Final Cycle Matrix: 84
+History of Number of Rows in the Cycle Matrix: [41, 52, 70, 77, 84]
+Number of Constraints in Final Iteration: 84
+History of Constraint Nums: [41, 52, 70, 77, 84]
+Number of Edges Removed: 30
+Feedback Edge Set: [(8, 0), (8, 12), (8, 9), (8, 14), (8, 10), (12, 9), (12, 4), (12, 13), (12, 14), (1, 0), (9, 1), (9, 11), (13, 15), (4, 6), (5, 13), (5, 1), (5, 7), (5, 0), (5, 4), (10, 14), (2, 0), (2, 10), (2, 6), (2, 7), (3, 1), (3, 11), (6, 14), (6, 10), (7, 15), (15, 14)]
+----------- STATS -----------
+Algorithm used: Algorithm.EDGES
+Runtime: 0.19616937637329102seconds
+Number of Iterations: 3
+Number of Rows in Final Cycle Matrix: 56
+History of Number of Rows in the Cycle Matrix: [41, 46, 56]
+Number of Constraints in Final Iteration: 542
+History of Constraint Nums: [527, 532, 542]
+Number of Prefs Removed (size of minFBPS): 19
+Minimum Feedback Pref Set: [1, 2, 3, 4, 7, 9, 14, 15, 16, 19, 22, 28, 29, 30, 31, 32, 35, 38, 40]
+Number of Edges Removed: 36
+Feedback Edge Set: [(0, 5), (0, 1), (0, 6), (0, 2), (8, 0), (8, 9), (8, 14), (8, 10), (12, 8), (12, 9), (12, 4), (12, 13), (12, 14), (1, 5), (1, 3), (9, 1), (9, 11), (13, 15), (13, 5), (4, 5), (4, 6), (5, 7), (10, 2), (10, 3), (10, 12), (10, 14), (2, 4), (2, 6), (11, 2), (11, 3), (14, 6), (14, 7), (7, 2), (7, 15), (15, 6), (15, 14)]
+----------- STATS -----------
+Algorithm used: Algorithm.PREFS
+Runtime: 0.05904984474182129seconds
+Number of Iterations: 2
+Number of Rows in Final Cycle Matrix: 42
+History of Number of Rows in the Cycle Matrix: [41, 42]
+Number of Constraints in Final Iteration: 174
+History of Constraint Nums: [173, 174]
+Number of Prefs Removed (size of minFBPS): 13
+Minimum Feedback Pref Set: [0, 1, 2, 4, 6, 19, 20, 22, 27, 29, 38, 41, 42]
+Number of Edges Removed: 50
+Feedback Edge Set: [(0, 8), (0, 12), (0, 5), (0, 6), (8, 9), (8, 14), (12, 8), (12, 9), (12, 4), (12, 13), (1, 9), (1, 13), (1, 4), (1, 5), (1, 0), (9, 12), (13, 8), (4, 8), (5, 9), (5, 13), (5, 0), (5, 4), (10, 2), (10, 3), (10, 8), (10, 0), (10, 12), (10, 14), (10, 15), (2, 0), (2, 8), (2, 4), (2, 6), (2, 7), (3, 1), (11, 2), (11, 3), (11, 9), (14, 6), (14, 7), (14, 12), (14, 4), (14, 15), (14, 11), (6, 4), (6, 12), (7, 5), (7, 15), (15, 6), (15, 13)]

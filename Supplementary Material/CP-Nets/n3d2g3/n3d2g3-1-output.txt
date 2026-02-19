@@ -1,0 +1,38 @@
+----------- GRAPH -----------
+Number of Preferences: 21
+Number of Outcomes: 8
+Number of Edges: 21
+----------- STATS -----------
+Algorithm used: Algorithm.MFAS
+Runtime: 0.05946230888366699seconds
+Number of Iterations: 1
+Number of Rows in Final Cycle Matrix: 9
+History of Number of Rows in the Cycle Matrix: [9]
+Number of Constraints in Final Iteration: 9
+History of Constraint Nums: [9]
+Number of Edges Removed: 9
+Feedback Edge Set: [(0, 4), (5, 1), (1, 0), (6, 2), (6, 4), (6, 7), (2, 0), (7, 3), (7, 5)]
+----------- STATS -----------
+Algorithm used: Algorithm.EDGES
+Runtime: 0.019854068756103516seconds
+Number of Iterations: 1
+Number of Rows in Final Cycle Matrix: 9
+History of Number of Rows in the Cycle Matrix: [9]
+Number of Constraints in Final Iteration: 138
+History of Constraint Nums: [138]
+Number of Prefs Removed (size of minFBPS): 10
+Minimum Feedback Pref Set: [0, 8, 9, 11, 12, 13, 16, 18, 19, 20]
+Number of Edges Removed: 9
+Feedback Edge Set: [(4, 0), (0, 2), (0, 1), (5, 1), (6, 2), (6, 4), (6, 7), (7, 3), (7, 5)]
+----------- STATS -----------
+Algorithm used: Algorithm.PREFS
+Runtime: 0.01092839241027832seconds
+Number of Iterations: 1
+Number of Rows in Final Cycle Matrix: 9
+History of Number of Rows in the Cycle Matrix: [9]
+Number of Constraints in Final Iteration: 45
+History of Constraint Nums: [45]
+Number of Prefs Removed (size of minFBPS): 8
+Minimum Feedback Pref Set: [0, 1, 2, 3, 6, 8, 11, 16]
+Number of Edges Removed: 9
+Feedback Edge Set: [(4, 0), (5, 1), (5, 7), (1, 0), (6, 2), (6, 4), (2, 0), (7, 3), (7, 6)]
